@@ -1135,10 +1135,3 @@ public class ScannerDemo1{
 - 此时就出现了两个窗口，在一个新的窗口打开了新的项目
 
 ![计算机发展](img/%E6%96%B0%E5%BB%BA%E9%A1%B9%E7%9B%AE6.png)
-
-
-
-
-
-
-

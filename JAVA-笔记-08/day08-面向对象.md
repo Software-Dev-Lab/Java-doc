@@ -668,6 +668,4 @@ public class Test {
         u2.eat();
     }
 }
-
 ```
-
